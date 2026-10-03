@@ -29,8 +29,8 @@ O projeto é composto por quatro classes principais:
    ```bash
    javac Main.java
 
-   /votacao
-   
+
+/votacao   
 ├── Candidato.java       # Definição dos atributos e métodos do candidato
 
 ├── Eleitor.java         # Definição dos atributos e estado de votação do eleitor
