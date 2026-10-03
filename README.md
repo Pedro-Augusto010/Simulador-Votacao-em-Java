@@ -30,7 +30,7 @@ O projeto é composto por quatro classes principais:
    javac Main.java
 
 
-/votacao   
+## 📂 Estrutura do Repositório 
 ├── Candidato.java       # Definição dos atributos e métodos do candidato
 
 ├── Eleitor.java         # Definição dos atributos e estado de votação do eleitor
