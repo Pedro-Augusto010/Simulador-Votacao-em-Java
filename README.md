@@ -1,6 +1,6 @@
 # Simulação de Votação Eletrónica
 
-Este projeto é uma simulação de um sistema de votação eletrónica desenvolvido em Java. Ele foi construído como parte da avaliação da disciplina de Programação Orientada por Objetos da Universidade Católica de Brasília (UCB).
+Este projeto é uma simulação de um sistema de votação eletrónica desenvolvido em Java.
 
 ## 🎯 Objetivo
 O objetivo principal do projeto é aplicar conceitos fundamentais de Programação Orientada por Objetos (POO), como **encapsulamento**, **validação de regras de negócio** e **interação entre objetos**, sem a utilização de estruturas de armazenamento coletivo (como *arrays* ou listas).
@@ -8,7 +8,7 @@ O objetivo principal do projeto é aplicar conceitos fundamentais de Programaç�
 ## ⚙️ Funcionalidades
 - **Registo de Candidatos:** Os candidatos começam com zero votos e os votos são incrementados individualmente através de métodos seguros.
 - **Registo de Eleitores:** Controlo de participação para garantir que um eleitor vote apenas uma vez, preservando totalmente o sigilo do voto.
-- **Controlo da Urna:**
+- **Controle da Urna:**
   - Validação se a urna está aberta para receber votos.
   - Verificação da validade de eleitores e candidatos.
   - Incremento seguro do total de votos e registo de participação do eleitor.
